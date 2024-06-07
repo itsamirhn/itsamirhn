@@ -10,7 +10,7 @@
 ---
 ✨ I'm a Computer Science student at the [Kharazmi University](https://khu.ac.ir) who loves to create fun things with new technologies and learn about Algorithms and Data Structures.
 
-- 💼 I'm currently working as a full-stack developer.
+- 💼 I'm currently working as a Software Engineer @ [Divar](https://divar.ir).
   
 - 📫 How to reach me: [awmirhn@gmail.com](mailto:awmirhngmail.com)
 
